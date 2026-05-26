@@ -55,6 +55,7 @@ You can omit `SYNC_SDK` on subsequent builds.
 
 ```
 python -m http.server --directory build/YOUR_BRANCH/<PLATFORM>/html
+python -m http.server --directory build/main/mindocs/html
 ```
 
 # Syncing Operator CRD Docs
